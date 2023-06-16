@@ -1,0 +1,13 @@
+
+nim = input("Masukkan nim anda:")
+nama = input("masukkan nama lengkap:")
+kelas = input("masukkan kelas anda:")
+usia = input("masukkan usia:")
+print ("===============================")
+print ("IDENTITAS MAHASISWA")
+print ("==============================")
+print ("NIM Mahasiswa ;",nim)
+print ("Nama Lengkap :",nama)
+print ("kelas saat ini:",kelas)
+print ("usia anda :",usia)
+print("==========================")
